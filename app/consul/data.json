@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Coertion",
+    "x": 1,
+    "y": 1.8,
+    "tools": ["Power"]
+  },
+  {
+    "title": "Fiat",
+    "x": 2.3,
+    "y": 2,
+    "tools": ["Power"]
+  },
+  {
+    "title": "Threats",
+    "x": 1.5,
+    "y": 3,
+    "tools": ["Power"]
+  }
+]
